@@ -8,4 +8,4 @@ I created this for the artist Stacie Ant. http://stacieant.com I used a GLB whic
 
 # Tutorial
 
-I create a simple tutorial to explain this process, this tutorial is available at my website aaronjcunningham.info/posts/how-to-glb-animated-header
+I create a simple tutorial to explain this process, this tutorial is available at my website http://aaronjcunningham.info/posts/how-to-add-gltf-glb-to-react
