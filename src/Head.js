@@ -40,8 +40,8 @@ const Head = () => {
         </Suspense>
       </Canvas>
       <div id="header_content">
-        <a id="header_button" href="http://www.aaronjcunningham.info">
-          ENTER
+        <a id="header_button" href="http://www.aaronjcunningham.com">
+          Aaron J. Cunningham
         </a>
       </div>
     </div>
